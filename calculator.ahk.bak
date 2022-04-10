@@ -1,0 +1,87 @@
+
+Gui, Font, S8 CDefault Bold, Verdana
+
+Gui, Add, Text, x72 y29 w100 h30 , A
+Gui, Add, Edit, x72 y69 w110 h50 vA,
+
+Gui, Add, Text, x322 y29 w100 h40 , B
+Gui, Add, Edit, x312 y79 w110 h50 vB,
+
+Gui, Add, Button, x32 y189 w100 h30 , 덧셈
+Gui, Add, Button, x152 y189 w100 h30 , 뺄셈
+Gui, Add, Button, x272 y189 w100 h30 , 곱셈
+Gui, Add, Button, x362 y159 w100 h30 , 나눗셈
+
+Gui, Add, Text, x42 y249 w100 h30 vResult, Result
+
+Gui, Show, w479 h379, Calculator
+return
+
+GuiClose:
+ExitApp
+
+Button덧셈:
+Gui, Submit, NoHide
+{
+	
+	;MsgBox %A% %B%
+	
+	if(!A || !B){
+		MsgBox, 16, 입력 오류, 숫자만 입력 가능합니다.`n빈칸에 알맞은 숫자를 반드시 입력해야 합니다.
+	}
+	
+	x = %A%
+	y = %B%
+	Result := x + y
+	
+	GuiControl,, Result, %A% + %B% = %Result%  
+}
+return
+
+Button뺄셈:
+{
+	;MsgBox %A% %B%
+	
+	if(!A || !B){
+		MsgBox, 16, 입력 오류, 숫자만 입력 가능합니다.`n빈칸에 알맞은 숫자를 반드시 입력해야 합니다.
+	}
+	
+	x = %A%
+	y = %B%
+	Result := x - y
+	
+	GuiControl,, Result, %A% - %B% = %Result%
+}
+return
+
+Button곱셈:
+{
+	;MsgBox %A% %B%
+	
+	if(!A || !B){
+		MsgBox, 16, 입력 오류, 숫자만 입력 가능합니다.`n빈칸에 알맞은 숫자를 반드시 입력해야 합니다.
+	}
+	
+	x = %A%
+	y = %B%
+	Result := x * y
+	
+	GuiControl,, Result, %A% * %B% = %Result%
+}
+return
+
+Button나눗셈:
+{
+	;MsgBox %A% %B%
+	
+	if(!A || !B){
+		MsgBox, 16, 입력 오류, 숫자만 입력 가능합니다.`n빈칸에 알맞은 숫자를 반드시 입력해야 합니다.
+	}
+	
+	x = %A%
+	y = %B%
+	Result := x // y
+	
+	GuiControl,, Result, %A% / %B% = %Result%
+}
+return
