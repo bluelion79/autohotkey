@@ -1,6 +1,5 @@
 ﻿
 InputBox, yourMoney, Coffee Machine, Please put your money in: , , 300, 150
-;MsgBox, You entered %UserInput% as your username
 
 coffeePrice := 500
 

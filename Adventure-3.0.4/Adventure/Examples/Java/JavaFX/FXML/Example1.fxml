@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Scene?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.control.Button?>
+
+<Scene>
+    <Pane prefWidth="800" prefHeight="540">
+        <Button text="Button" layoutX="10" layoutY="10" prefWidth="80" prefHeight="24" />
+    </Pane>
+</Scene>

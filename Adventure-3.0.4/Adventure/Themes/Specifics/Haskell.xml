@@ -1,0 +1,37 @@
+﻿<scheme const="HA">
+    <theme name="Default">
+        <style name="Default" v="0" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Identifier" v="1" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Keyword" v="2" fc="0x004CB1" bc="" b="1" i="0" u="" />
+        <style name="Number" v="3" fc="0x880088" bc="" b="0" i="0" u="" />
+        <style name="String" v="4" fc="0x008000" bc="" b="0" i="0" u="" />
+        <style name="Character" v="5" fc="0x008000" bc="" b="0" i="0" u="" />
+        <style name="Class" v="6" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Module" v="7" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Capital" v="8" fc="0x183691" bc="" b="0" i="0" u="" />
+        <style name="Data" v="9" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Import" v="10" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Operator" v="11" fc="0x0000CF" bc="" b="0" i="0" u="" />
+        <style name="Instance" v="12" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="CommentLine" v="13" fc="0x767676" bc="" b="0" i="1" u="" />
+        <style name="CommentBlock" v="14" fc="0x767676" bc="" b="0" i="1" u="" />
+        <style name="CommentBlock2" v="15" fc="0x767676" bc="" b="0" i="1" u="" />
+        <style name="CommentBlock3" v="16" fc="0x767676" bc="" b="0" i="1" u="" />
+        <style name="Pragma" v="17" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Preprocessor" v="18" fc="0x1E90FF" bc="" b="0" i="0" u="" />
+        <style name="StringEOL" v="19" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Reserved_Operator" v="20" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Literate_Comment" v="21" fc="0x000000" bc="" b="0" i="0" u="" />
+        <style name="Literate_CodeDelim" v="22" fc="0x000000" bc="" b="0" i="0" u="" />
+    </theme>
+
+    <keywords>
+        <language id="HSK">
+            <group id="0" name="Keywords" keywords="_ as case class data default deriving do else hiding if import in infix infixl infixr instance let module newtype of qualified then type where forall mdo" />
+
+            <group id="1" name="FFI" keywords="" />
+
+            <group id="2" name="Reserved Operators" keywords="" />
+        </language>
+    </keywords>
+</scheme>
