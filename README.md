@@ -9,3 +9,6 @@ https://blog.joyfui.com/834?category=359179
 
 오토핫키 고급예제
 https://github.com/DeTK/ahkFiles
+
+오토핫키 사용법 메뉴얼 링크
+https://knowledgeisfree.tistory.com/55?category=569916
