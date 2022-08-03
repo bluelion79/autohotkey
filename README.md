@@ -21,3 +21,6 @@ https://autohotkey4auto.tistory.com/
 
 오토핫키 업무자동화(구글, 파이어베이스, 앱스크립트 등 폭넓은 활용)
 https://blog.naver.com/PostList.naver?blogId=goglkms&categoryNo=29&skinType=&skinId=&from=menu&userSelectMenu=true
+
+오토핫키 강좌 텍스트 링크
+https://blog.naver.com/edelroyals
