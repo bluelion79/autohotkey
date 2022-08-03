@@ -12,3 +12,6 @@ https://github.com/DeTK/ahkFiles
 
 오토핫키 사용법 메뉴얼 링크
 https://knowledgeisfree.tistory.com/55?category=569916
+
+멘땅에헤딩아재(동영상 강좌)
+https://www.youtube.com/channel/UCSbr3Jg1f7V2XAsp7VSsguw/videos
