@@ -21,6 +21,7 @@ https://www.youtube.com/channel/UCSbr3Jg1f7V2XAsp7VSsguw/videos
 
 멘땅에헤딩아재(블로그 강좌)
 https://autohotkey4auto.tistory.com/
+https://autohotkey4auto.tistory.com/38
 
 오토핫키 업무자동화(구글, 파이어베이스, 앱스크립트 등 폭넓은 활용)
 https://blog.naver.com/PostList.naver?blogId=goglkms&categoryNo=29&skinType=&skinId=&from=menu&userSelectMenu=true
