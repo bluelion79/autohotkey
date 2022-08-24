@@ -10,7 +10,11 @@ https://youtu.be/P5oRPr2oeBk
 https://forms.gle/pdiyvzpu8PW8ii6X6
 
 오토핫키 수업
+[1]
 https://www.notion.so/edufly/AutoHotKey-Lessons-7be3836eb97d4124a9b01af9c68c32a2
+
+[2]
+https://edufly.notion.site/AutoHotKey-Lesson-2-d86720c4285849d9921ceb48acb61839
 
 오토핫키 SCITE4 IDE와 한글 패치 링크
 https://blog.joyfui.com/834?category=359179
