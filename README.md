@@ -1,5 +1,8 @@
 # autohotkey
 
+Easy Coding & Fun Coding
+https://bit.ly/3BDKRx5
+
 AutoHotKey Play Ground IDE
 https://youtu.be/HOITpqe7ZUY
 
