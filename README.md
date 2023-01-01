@@ -9,6 +9,10 @@ https://youtu.be/HOITpqe7ZUY
 AutoHotkey Pulover's Macro Creator
 https://youtu.be/P5oRPr2oeBk
 
+오토핫키 자동화 
+https://blog.naver.com/skionskion
+
+
 자기평가서 양식
 https://forms.gle/pdiyvzpu8PW8ii6X6
 
