@@ -9,6 +9,8 @@ https://youtu.be/HOITpqe7ZUY
 AutoHotkey Pulover's Macro Creator
 https://youtu.be/P5oRPr2oeBk
 
+https://m.blog.naver.com/skionskion/222712767360
+
 오토핫키 자동화 
 https://blog.naver.com/skionskion
 
