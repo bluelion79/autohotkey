@@ -1,5 +1,8 @@
 # autohotkey
 
+오토핫키 교사 대상 연수 자료
+https://docs.google.com/presentation/d/1BqMbTB1D97Nw7JOLiEVbRJ0TIwQ3wY4n4mbjFa4YKcE/mobilepresent?slide=id.p
+
 Easy Coding & Fun Coding
 https://bit.ly/3BDKRx5
 
