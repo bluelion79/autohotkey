@@ -1,6 +1,10 @@
 # autohotkey
 
 
+Autohotkey with ChatGPT API
+https://youtu.be/LnzRg1fNUSQ
+https://github.com/htadashi/GPT3-AHK
+
 Drag and Drop Editor
 https://youtu.be/o5BVo6WHOh4?list=PLfHPAKSz_DJrOaWN9klH-Xm6FIfSoeZbi
 https://ahk.zvecr.com
