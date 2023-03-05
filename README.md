@@ -40,6 +40,7 @@ https://blog.naver.com/skionskion
 https://forms.gle/pdiyvzpu8PW8ii6X6
 
 오토핫키 수업
+
 [1]
 https://www.notion.so/edufly/AutoHotKey-Lessons-7be3836eb97d4124a9b01af9c68c32a2
 
