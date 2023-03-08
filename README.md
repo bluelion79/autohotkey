@@ -1,5 +1,7 @@
 # autohotkey
 
+https://neutrino77.moodlecloud.com/login/index.php
+
 
 Autohotkey with ChatGPT API
 
