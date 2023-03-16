@@ -22,7 +22,7 @@ https://cloudahk.com/editor/
 https://docs.google.com/presentation/d/1BqMbTB1D97Nw7JOLiEVbRJ0TIwQ3wY4n4mbjFa4YKcE/mobilepresent?slide=id.p
 
 Easy Coding & Fun Coding
-https://bit.ly/3BDKRx5
+https://www.notion.so/edufly/AutoHotKey-d3f2946d754d4dc19666a5dae480ad1e
 
 AutoHotKey Topnation
 https://tabnationcoding.com
