@@ -24,6 +24,9 @@ https://docs.google.com/presentation/d/1BqMbTB1D97Nw7JOLiEVbRJ0TIwQ3wY4n4mbjFa4Y
 Easy Coding & Fun Coding
 https://www.notion.so/edufly/AutoHotKey-d3f2946d754d4dc19666a5dae480ad1e
 
+AutoHotKey 프날 강좌(한글 리뉴얼 2019)
+https://pnal.kr/
+
 AutoHotKey Topnation
 https://tabnationcoding.com
 
