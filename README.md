@@ -50,6 +50,8 @@ https://youtu.be/P5oRPr2oeBk
 
 https://blog.naver.com/cjswoek47/222498585831
 
+https://m.blog.naver.com/skionskion/222712767360?referrerCode=1
+
 5. AutoHotKey Topnation
 
 https://tabnationcoding.com
@@ -61,6 +63,10 @@ https://www.notion.so/edufly/AutoHotKey-Lessons-7be3836eb97d4124a9b01af9c68c32a2
 
 [2]
 https://edufly.notion.site/AutoHotKey-Lesson-2-d86720c4285849d9921ceb48acb61839
+
+7. 오토핫키 강좌 블로그
+
+https://m.blog.naver.com/PostList.naver?blogId=skionskion
 
 # 실습 참고 자료
 
