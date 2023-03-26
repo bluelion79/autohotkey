@@ -28,7 +28,41 @@ https://youtu.be/pDNPew0LuD0
 39:18 챗GPT는 막노동으로 수천억 개의 파라미터를 찾아낸 모델.
 
 
-# 실습 자료
+# 실습 핵심 자료
+
+1. Easy Coding & Fun Coding
+
+https://www.notion.so/edufly/AutoHotKey-d3f2946d754d4dc19666a5dae480ad1e
+
+2. AutoHotKey 프날 강좌(한글 리뉴얼 2019)
+
+https://pnal.kr/
+
+3. 킴영감 오토핫키 유튜브 채널
+
+https://www.youtube.com/@elderlykim/featured
+
+https://blog.naver.com/medosam/222179446619
+
+4. AutoHotkey Pulover's Macro Creator
+
+https://youtu.be/P5oRPr2oeBk
+
+https://blog.naver.com/cjswoek47/222498585831
+
+5. AutoHotKey Topnation
+
+https://tabnationcoding.com
+
+6. 오토핫키 수업 강의 자료
+
+[1]
+https://www.notion.so/edufly/AutoHotKey-Lessons-7be3836eb97d4124a9b01af9c68c32a2
+
+[2]
+https://edufly.notion.site/AutoHotKey-Lesson-2-d86720c4285849d9921ceb48acb61839
+
+# 실습 참고 자료
 
 Autohotkey with ChatGPT API
 
@@ -46,38 +80,16 @@ https://cloudahk.com/editor/
 오토핫키 교사 대상 연수 자료
 https://docs.google.com/presentation/d/1BqMbTB1D97Nw7JOLiEVbRJ0TIwQ3wY4n4mbjFa4YKcE/mobilepresent?slide=id.p
 
-Easy Coding & Fun Coding
-https://www.notion.so/edufly/AutoHotKey-d3f2946d754d4dc19666a5dae480ad1e
-
-AutoHotKey 프날 강좌(한글 리뉴얼 2019)
-https://pnal.kr/
-
-AutoHotKey Topnation
-https://tabnationcoding.com
-
-
 AutoHotKey Play Ground IDE
 https://youtu.be/HOITpqe7ZUY
-
-AutoHotkey Pulover's Macro Creator
-https://youtu.be/P5oRPr2oeBk
 
 https://m.blog.naver.com/skionskion/222712767360
 
 오토핫키 자동화 
 https://blog.naver.com/skionskion
 
-
 자기평가서 양식
 https://forms.gle/pdiyvzpu8PW8ii6X6
-
-오토핫키 수업
-
-[1]
-https://www.notion.so/edufly/AutoHotKey-Lessons-7be3836eb97d4124a9b01af9c68c32a2
-
-[2]
-https://edufly.notion.site/AutoHotKey-Lesson-2-d86720c4285849d9921ceb48acb61839
 
 오토핫키 SCITE4 IDE와 한글 패치 링크
 https://blog.joyfui.com/834?category=359179
