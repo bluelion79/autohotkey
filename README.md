@@ -64,9 +64,13 @@ https://www.notion.so/edufly/AutoHotKey-Lessons-7be3836eb97d4124a9b01af9c68c32a2
 [2]
 https://edufly.notion.site/AutoHotKey-Lesson-2-d86720c4285849d9921ceb48acb61839
 
-7. 오토핫키 강좌 블로그
+7. 오토핫키 강좌 블로그 - 1
 
 https://m.blog.naver.com/PostList.naver?blogId=skionskion
+
+8. 오토핫키 강좌 블로그 - 2
+
+https://m.blog.naver.com/goglkms?categoryNo=29
 
 # 실습 참고 자료
 
