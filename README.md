@@ -72,6 +72,10 @@ https://m.blog.naver.com/PostList.naver?blogId=skionskion
 
 https://m.blog.naver.com/goglkms?categoryNo=29
 
+9. 윈도우즈10 환경변수 설정
+
+https://rootblog.tistory.com/225
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
