@@ -76,6 +76,10 @@ https://m.blog.naver.com/goglkms?categoryNo=29
 
 https://rootblog.tistory.com/225
 
+10. ChatGPT를 AutoHotkey와 함께 이용해서 자동화
+
+https://youtu.be/C8d31lL-Xok
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
