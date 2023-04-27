@@ -84,6 +84,10 @@ https://youtu.be/C8d31lL-Xok
 
 http://playbot.spaceii.com/
 
+12. 알고리즘 게임
+
+https://windwinter.tistory.com/m/400
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
