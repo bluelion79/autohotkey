@@ -88,6 +88,10 @@ http://playbot.spaceii.com/
 
 https://windwinter.tistory.com/m/400
 
+13. 플로우차트 그리기
+
+https://excalidraw-woensug-choi.vercel.app/
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
