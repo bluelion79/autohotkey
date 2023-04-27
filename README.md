@@ -80,7 +80,7 @@ https://rootblog.tistory.com/225
 
 https://youtu.be/C8d31lL-Xok
 
-11. 블록코딩과 텍스트 코딩의 연결 
+11. 블록코딩과 텍스트 코딩의 연결 (오토핫키 수업 전에 배웠던 블록코딩을 상기하고 이것으로 다리를 놓은 후, 오토핫키->파이썬->C언어 순서로 이어지면 좋겠습니다.)
 
 http://playbot.spaceii.com/
 
