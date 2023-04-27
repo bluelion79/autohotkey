@@ -80,6 +80,10 @@ https://rootblog.tistory.com/225
 
 https://youtu.be/C8d31lL-Xok
 
+11. 블록코딩과 텍스트 코딩의 연결 
+
+http://playbot.spaceii.com/
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
