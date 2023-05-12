@@ -44,7 +44,7 @@ Func cutTree() {
 showDescription() ; 상황 설명 출력
 cutTree() ; 나무를 자름
 MsgBox, % "길이 열렸다!" ; 나무를 다 잘라서 길이 열림
-위 코드는 한 참을 걷다가 길을 막는 나무를 반복문을 사용하여 자르는 동화입니다.
+;위 코드는 한 참을 걷다가 길을 막는 나무를 반복문을 사용하여 자르는 동화입니다.
 
 ;변수 treeHeight는 나무의 높이를, cuttingCount는 자른 횟수를 저장하는 변수입니다.
 ;함수 showDescription은 상황에 대한 설명을 출력합니다.
