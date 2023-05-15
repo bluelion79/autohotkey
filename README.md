@@ -30,6 +30,14 @@ https://youtu.be/pDNPew0LuD0
 
 # 실습 핵심 자료
 
+<< 긴급 >>
+
+업데이트 창이 사라지지 않는 경우
+
+옵션-Open User Options File 선택후 에디터에 화일이 열리면 아래의 코드를 추가
+
+automatic.updates=0
+
 1. Easy Coding & Fun Coding
 
 https://www.notion.so/edufly/AutoHotKey-d3f2946d754d4dc19666a5dae480ad1e
