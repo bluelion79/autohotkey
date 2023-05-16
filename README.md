@@ -1,3 +1,9 @@
+# 수행평가
+
+2차 프로그래밍 기초 능력 평가
+
+https://forms.gle/SyrHnrmAkzSMdQSt7
+
 # 참고 자료
 
 https://youtu.be/pDNPew0LuD0
