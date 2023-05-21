@@ -1,3 +1,8 @@
+# 대표수업
+(학생용)
+https://colab.research.google.com/drive/1d8ZcujqtC6OBD7iLbTJNYwFI4iSLwdBq?usp=sharing
+
+
 # 수행평가
 
 2차 프로그래밍 기초 능력 평가
