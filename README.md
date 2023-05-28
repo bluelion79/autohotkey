@@ -111,6 +111,14 @@ https://windwinter.tistory.com/m/400
 
 https://excalidraw-woensug-choi.vercel.app/
 
+14. 오토핫키 블로그(매크로 자동화 프로그램, 파파고 번역기, VBA + 오토핫키 + 아래아한글 융합 프로그램)
+
+https://itseorab.tistory.com/m/
+
+
+
+
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
