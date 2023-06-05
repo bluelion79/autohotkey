@@ -5,7 +5,11 @@ https://colab.research.google.com/drive/1d8ZcujqtC6OBD7iLbTJNYwFI4iSLwdBq?usp=sh
 
 # 수행평가
 
-2차 프로그래밍 기초 능력 평가
+3차 프로그래밍 기초 능력 평가(프로그래밍 언어로 시화 작품 만들기)
+
+https://forms.gle/gmVsyetrp8JMLDNx6
+
+2차 프로그래밍 기초 능력 평가(코딩 능력 평가)
 
 https://forms.gle/SyrHnrmAkzSMdQSt7
 
