@@ -141,6 +141,10 @@ https://itseorab.tistory.com/m/
 - 발표를 하는 사람과 발표하지 않는 사람의 과목별 세부 능력과 특기사항의 차이가 발생합니다. 참고하세요.
 
 
+# 1학기 자기평가서 양식
+
+https://forms.gle/Ut6LpTTZ6X1gddNr8
+
 # 실습 참고 자료
 
 Autohotkey with ChatGPT API
