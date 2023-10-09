@@ -2,6 +2,12 @@
 (학생용)
 https://colab.research.google.com/drive/1d8ZcujqtC6OBD7iLbTJNYwFI4iSLwdBq?usp=sharing
 
+# AHK V2 Auto GUI
+
+https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2
+
+https://youtu.be/G9jtbZ_Gk8s
+
 
 # 수행평가
 
