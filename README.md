@@ -8,6 +8,7 @@ https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2
 
 https://youtu.be/G9jtbZ_Gk8s
 
+https://youtu.be/vazmfZCsfEM
 
 # 수행평가
 
